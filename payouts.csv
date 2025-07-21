@@ -1,0 +1,4 @@
+influencer_id,basis,rate,orders,total_payout
+1,post,5000,3,5000
+2,order,200,2,400
+3,order,300,5,1500
